@@ -1,0 +1,6 @@
+owner=464767707439562772
+prefix=B2
+game=MR.MUSIC 2 | B2play
+stayinchannel=true
+songinstatus=false
+token=NTI4MTYyNzk5ODM5MzQ2Njg5.XOo2Ag.FPt7vQ3sOOFFRsgEvlBwCghpCW4
